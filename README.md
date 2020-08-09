@@ -1,7 +1,5 @@
-# video_streaming_app
+# Video Streaming App
 Live News
 ## All News
 
-1.Aaj Tak Live
-2.Zee News
-3.ABP News
+<img width="300" src="art/pic.png?raw=true">
